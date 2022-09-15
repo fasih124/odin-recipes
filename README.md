@@ -1,7 +1,7 @@
 # odin-recipes
-this project is to test my html basic knowledge.after completing tis project i will have a good understanding of : 
- - how to add text.
- - how to add links.
- - how to add images.
- - how to add lists.
- - how to use git properly.
+This project is to Test my HTML Basic Knowledge.After completing tis project, I will have a good understanding of : 
+ - How to add Text.
+ - How to add Links.
+ - How to add Images.
+ - How to add Lists.
+ - How to use Git properly.
